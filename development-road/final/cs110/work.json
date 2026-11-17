@@ -3,8 +3,9 @@
   "course": "CS110",
   "name": "Rodolfo Sierra-Trujillo",
   "work": {
-    "project": "A story worth playing",
-    "path": "story",
+    "project": "Rhythm Star",
+    "projectDescription": "I am going to reference a SNES game called Gradius.  B",
+    "path": "arcade",
     "selected": [
       "save"
     ],
