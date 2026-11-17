@@ -4,7 +4,7 @@
   "name": "Rodolfo Sierra-Trujillo",
   "work": {
     "project": "Rhythm Star",
-    "projectDescription": "I am going to reference a SNES game called Gradius.  B",
+    "projectDescription": "I am going to reference a SNES game called Gradius.  But instead of a normal space shooter, I am going to make it a rhythm game.",
     "path": "arcade",
     "selected": [
       "save"
