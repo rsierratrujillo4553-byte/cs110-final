@@ -7,7 +7,11 @@
     "projectDescription": "I am going to reference a SNES game called Gradius.  But instead of a normal space shooter, I am going to make it a rhythm game.",
     "path": "arcade",
     "selected": [
-      "save"
+      "save",
+      "branch",
+      "access",
+      "tests",
+      "modular"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "the readme, \n8e27933,the readme opened",
