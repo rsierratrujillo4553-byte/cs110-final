@@ -8,7 +8,11 @@
     "projectDescription": "I am going to reference a SNES game called Gradius.  But instead of a normal space shooter, I am going to make it a rhythm game.",
     "path": "arcade",
     "selected": [
-      "save"
+      "save",
+      "branch",
+      "access",
+      "tests",
+      "modular"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -53,6 +57,30 @@
         "code": "R02",
         "title": "Save and restore progress",
         "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
+      },
+      {
+        "id": "branch",
+        "code": "R03",
+        "title": "Branching story or mission state",
+        "evidence": "Demonstrate at least two meaningful outcomes, their conditions and a state-transition test."
+      },
+      {
+        "id": "access",
+        "code": "R08",
+        "title": "Accessible controls and interface",
+        "evidence": "Demonstrate keyboard access, readable contrast, clear feedback and one user-tested accessibility improvement."
+      },
+      {
+        "id": "tests",
+        "code": "R10",
+        "title": "Automated regression tests",
+        "evidence": "Run meaningful normal, boundary and failure tests. Show a defect the suite detects."
+      },
+      {
+        "id": "modular",
+        "code": "R09",
+        "title": "Modular architecture",
+        "evidence": "Show a module/class diagram, clear responsibilities and a change made without rewriting unrelated systems."
       }
     ],
     "tasks": [],
