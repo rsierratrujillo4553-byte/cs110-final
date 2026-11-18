@@ -8,8 +8,7 @@
     "projectDescription": "I am going to reference a SNES game called Gradius.  But instead of a normal space shooter, I am going to make it a rhythm game.",
     "path": "arcade",
     "selected": [
-      "save",
-      "branch"
+      "save"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -54,12 +53,6 @@
         "code": "R02",
         "title": "Save and restore progress",
         "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
-      },
-      {
-        "id": "branch",
-        "code": "R03",
-        "title": "Branching story or mission state",
-        "evidence": "Demonstrate at least two meaningful outcomes, their conditions and a state-transition test."
       }
     ],
     "tasks": [],
